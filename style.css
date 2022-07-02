@@ -1,0 +1,44 @@
+body
+{
+  background-color:#E4F5F9;
+  text-align: center;
+}
+
+.top_container
+{
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.box
+{
+  height: 200px ;
+  width: 200px;
+}
+
+.red
+{
+  background-color: red;
+}
+.blue
+{
+  background-color: blue;
+}
+
+.top_cloud
+{
+  position: relative;
+  left:220px;
+  bottom:10px;
+}
+
+.bottom_cloud
+{
+  position: absolute;
+}
+
+#name
+{
+  font-family : 'Smooch', cursive;
+}
